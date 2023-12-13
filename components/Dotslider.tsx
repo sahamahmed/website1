@@ -15,7 +15,7 @@ import { Pagination, Navigation } from 'swiper/modules';
 
 const Dotslider = () => {
     return (
-      <div className="max-w-screen-2xl bg-slate-600 h-[350px] p-4 text-center border-b-2 border-b-gray-300 ">
+      <div className="w-full bg-slate-600 h-[350px] p-4 text-center border-b-2 border-b-gray-300 ">
       <div className="md:text-5xl text-xl mt-6 font-extrabold">  
       <Swiper
     
