@@ -14,7 +14,7 @@ const Banner = () => {
 
     })
   return (
-    <div className="max-w-screen-2xl bg-slate-600 h-76 p-4 text-center 
+    <div className="w-full bg-slate-600 h-76 p-4 text-center 
     ">
         <h1 className="md:text-5xl text-3xl m-4 font-extrabold">SERVIO TECHNOLOGIES</h1>
         <p className="text-xl md:text-2xl text-pink-100">{text}
