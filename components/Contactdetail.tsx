@@ -9,8 +9,8 @@ import { AiOutlineLinkedin } from "react-icons/ai";
 
 const Contactdetail = () => {
   return (
-    <div className=" min-h-20 max-h-fit w-full lg:justify-around p-24 bg-slate-600 flex flex-col justify-center items-center gap-y-4 lg:flex-row lg:gap-x-4 lg:items-start">
-      <div>
+    <div className=" min-h-20 h-full w-full lg:justify-around p-24 bg-slate-600 flex flex-col justify-center items-center gap-y-4 lg:flex-row lg:gap-x-4 lg:items-start">
+      <div mx-3>
       <Form></Form>
       </div>
 
